@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm a technical writer and language professional with skills in programming and natural language processing. My passion is finding clear and concise ways to communicate complex information to the people who need it to get things done. Too often technical information and instructions become blockers or hindrances because they do not match the users' needs – perhaps because there's too much or too little of them, because they lack context needed for understanding how something works, or because they're not communicated in the right way.
 
+#### Resume
+
+My resume is available here: [Resume - Sampo Savolainen](SavolainenS_Resume_Dec2023_GH.pdf)
+
 #### Technical writing portfolio
 
 This is a sample of my publicly available technical writing works.
