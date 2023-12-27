@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a technical writer and language professional with skills in programming and natural language processing. My passion is finding clear and concise ways to communicate complex information to the people who need it to get things done. Too often technical information and instructions become blockers or hindrances because they do not match the users' needs – perhaps because there's too much or too little of them, because they lack context needed for understanding how something works, or because they're not communicated in the right way.
+I'm a technical writer and language professional with skills in programming and natural language processing. My passion is finding clear and concise ways to communicate complex information to the people who need it to get things done. Too often technical information and instructions become blockers or hindrances because they do not match the users' needs – perhaps because there's too much or too little information, or there's not enought context for understanding how something works, or simply because the information is not communicated in the right way.
 
 #### Resume
 
