@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a technical writer and language professional with skills in programming and natural language processing. My passion is finding clear and concise ways to communicate complex information to the people who need it to get things done. Too often technical information and instructions become blockers or hindrances because they do not match the users' needs – perhaps because there's too much or too little information, or there's not enough context for understanding how something works, or simply because the information is not communicated in the right way.
+I'm a technical writer and language professional with skills in programming and natural language processing. My passion is finding clear and concise ways to communicate complex information to the people who need it to get things done.
+
+Too often technical information and instructions become blockers or hindrances because they do not match the users' needs – perhaps because there's too much or too little information, or there's not enough context for understanding how something works, or simply because the information is not communicated in the right way.
 
 My job is to remedy that situation: technical documentation should make it easier to accomplish whatever you're trying to do, not get in the way.
 
@@ -35,8 +37,12 @@ This is a sample of my publicly available technical writing works.
   - During the course of writing the documentation, I tested the development feature; planned the content structure and outline; wrote the content; and added screenshots and GIFs to illustrate the use and value of the feature.
   - I wrote the documentation with feedback and suggestions from the documentation team lead and the developer who worked on the feature.
 - [Log in to Smartly.io](https://web.archive.org/web/20220524130956/https://support.smartly.io/hc/en-us/articles/4410819723538-Log-in-to-Smartly-io) ([Smartly.io](https://www.smartly.io/))
-  - I wrote documentation for this basic procedure. I'm linking to a version found through the Wayback Machine from 24 May 2022, since I left the company in June 2022 and the [current version](https://support.smartly.io/hc/en-us/articles/4410819723538-Log-in-to-Smartly-io) has changes made by other people.
-  
+  - I wrote the documentation for this basic procedure. I'm linking to a version found through the Wayback Machine from 24 May 2022, since I left the company in June 2022 and the [current version](https://support.smartly.io/hc/en-us/articles/4410819723538-Log-in-to-Smartly-io) has changes made by other people.
+- [Your first cup of tea – a tutorial](tutorial-making-tea.md)
+  - I wrote this generic tutorial to demonstrate how to consider a user's skills and knowledge level in instructions and how to create a learning experience through a guided tutorial.
+  - The tutorial assumes that the user has never had a cup of tea before and that they have access to a basic kitchen and a grocery store.
+  - The tutorial follows the principles of the [Diátaxis framework](https://diataxis.fr/tutorials/). Its goal is to guide the user through a safe and enjoyable tea-making experience and to teach them enough about the principles of making tea so that they can successfully learn more about it on their own.
+
 #### Other works
 
 - Python scripts for downloading articles from a Zendesk Help Center instance and analyzing basic textual statistics for reporting: https://gist.github.com/samsav/f4ae72eb7d03fa27310f82e0a1d5636e
