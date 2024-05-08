@@ -43,7 +43,7 @@ This is a sample of my publicly available technical writing works.
   - The tutorial assumes that the user has never had a cup of tea before and that they have access to a basic kitchen and a grocery store.
   - The tutorial follows the principles of the [Diátaxis framework](https://diataxis.fr/tutorials/). Its goal is to guide the user through a safe and enjoyable tea-making experience and to teach them enough about the principles of making tea so that they can successfully learn more about it on their own.
 
-#### Other works
+#### Coding
 
 - Python scripts for downloading articles from a Zendesk Help Center instance and analyzing basic textual statistics for reporting: https://gist.github.com/samsav/f4ae72eb7d03fa27310f82e0a1d5636e
   - I wrote these scripts for gathering data on a body of help center articles that had been created over years by a large number of people. In combination with Google Analytics, the data was used to prioritize rewriting and editing efforts.
