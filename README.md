@@ -20,10 +20,6 @@ Too often technical information and instructions become blockers or hindrances b
 
 My job is to remedy that situation: technical documentation should make it easier to accomplish whatever you're trying to do, not get in the way.
 
-#### Resume
-
-My resume is available here: [Resume - Sampo Savolainen](SavolainenS_Resume_Dec2023_GH.pdf)
-
 #### Technical writing portfolio
 
 This is a sample of my publicly available technical writing works.
